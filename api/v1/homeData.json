@@ -1,8 +1,46 @@
 {
-    "adImageUrls": [
-        "https://tb-static.uber.com/prod/image-proc/processed_images/8679d5148828cc23c2e1aa71a5d0a722/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg",
-        "https://tb-static.uber.com/prod/image-proc/processed_images/0e251871e94c58493fc0556bf9eae27b/cc592037c936600295e9961933037e19.jpeg",
-        "https://tb-static.uber.com/prod/image-proc/processed_images/fe83004c23717824ec43392b168241a7/d24a30ada2fef6c54cef8739d94823b0.jpeg",
-        "https://tb-static.uber.com/prod/image-proc/processed_images/a177875e59348c48ff525266439af0aa/d24a30ada2fef6c54cef8739d94823b0.jpeg"
-    ]
+  "adImageUrls": [
+    "https://tb-static.uber.com/prod/image-proc/processed_images/8679d5148828cc23c2e1aa71a5d0a722/9e31c708e4cf73b6e3ea1bd4a9b6e16b.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/0e251871e94c58493fc0556bf9eae27b/cc592037c936600295e9961933037e19.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/fe83004c23717824ec43392b168241a7/d24a30ada2fef6c54cef8739d94823b0.jpeg",
+    "https://tb-static.uber.com/prod/image-proc/processed_images/a177875e59348c48ff525266439af0aa/d24a30ada2fef6c54cef8739d94823b0.jpeg"
+  ],
+  "selectedProducts": [
+    {
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/74feab5686637b7504a8ed24c9d21264/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "name": "珍珠奶茶 Pearl Milk Tea",
+      "description": "大杯。總糖量: 58, 總熱量: 636。咖啡因含量: 綠 (100mg 以下)。清雅渾厚的錫蘭紅茶, 溶入香醇濃郁的義美鮮乳或瑞穗鮮乳, 再加入 Q 彈綿密的珍珠, 成就醲醇厚實, 圓柔豐潤的極致口感。",
+      "price": "65.00"
+    },
+    {
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/5c0168ffb095f0eb556b25a3e15fc260/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "name": "粉圓奶茶 Min Pearl Tea",
+      "description": "大杯。總糖量: 64, 總熱量: 497。咖啡因含量: 綠 (100mg 以下)。清雅渾厚的錫蘭紅茶, 溶入香醇濃郁的崙背鮮乳或瑞穗鮮乳, 再加入 Q 彈綿密的小巧粉圓, 開啟圓順芳醇的多重味覺體驗。",
+      "price": "65.00"
+    },
+    {
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/53e863a31532ec24ebfa6d0b8650f51e/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "name": "錫蘭紅茶 Ceylan Black Tea",
+      "description": "大杯。總糖量: 48, 總熱量: 211。咖啡因含量: 黃 (101mg 至 200mg)。有如琥珀一般的紅褐色茶湯, 清雅又厚實的茶味, 略帶些許澀感, 完美演繹錫蘭紅茶的經典風味。",
+      "price": "40.00"
+    },
+    {
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/aa93146d1cda8cb8afdd4e6e377937ae/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "name": "原鄉四季 Foru Seasons Tea",
+      "description": "大杯。總糖量: 28, 總熱量: 128。咖啡因含量: 綠 (100mg 以下)。透亮金黃的茶湯色澤, 入口新綠清香, 利爽甘甜, 回味芳醇細密, 餘香尾韻迴盪, 多層次的絕佳口感。",
+      "price": "40.00"
+    },
+    {
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/0d0a0d90b7a8635a4c70a7320ddf84ea/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "name": "特級綠茶 Special Green Tea",
+      "description": "大杯。總糖量: 46, 總熱量: 205。咖啡因含量: 黃 (101mg 至 200mg)。嫩黃微綠的明澈茶湯, 醇和清爽的茶味, 清雅芬馥的茶香, 回甘尾韻豐厚而深細。",
+      "price": "40.00"
+    },
+    {
+      "imageUrl": "https://tb-static.uber.com/prod/image-proc/processed_images/066b8f0284a97a857f0332f27e01e268/a19bb09692310dfd41e49a96c424b3a6.jpeg",
+      "name": "青心烏龍 Oolong Tea",
+      "description": "大杯。總糖量: 51, 總熱量: 226。咖啡因含量: 綠 (100mg 以下)。澄澈的黃褐色茶湯, 入口清新芳香, 甘醇渾厚, 微有炭燒味, 回甘馥郁而綿長。",
+      "price": "40.00"
+    }
+  ]
 }
